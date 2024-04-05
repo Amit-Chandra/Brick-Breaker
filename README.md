@@ -63,7 +63,7 @@ Brick Breaker is a classic arcade game where the player controls a paddle to bou
 
 This game is created by [Amit Chandra]. Feel free to contribute and improve the game!
 
-##Game Screenshots
+## Game Screenshots
 
 ![Game](1.png)
 ![Options](2.png)
